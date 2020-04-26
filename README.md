@@ -12,23 +12,21 @@ The problem is to identify and target the customers with the best offer that the
 My approach for solving this issue, will be to decide which one of the three offers (BOGO, Discount or informational message) should be sent to a certain customer given some feature about his demographic group and his previous transactions. 
 
 ### Included in this repository
-
-data.zip - Contains the three original files 
-proposal.pdf - The Capstone Project proposal with the project details
-README.md - this file
+- data.zip - Contains the three original files 
+- proposal.pdf - The Capstone Project proposal with the project details
+- README.md - this file
 
 After downloading/cloning this repository, unzip the file data.zip and create a /data folder contains the three files:
-1- portfolio.json
-2- profile.json
-3- transcript.json
+  1. portfolio.json
+  2. profile.json
+  3. transcript.json
 
 ### Libraries
-
 This project is developed using Python 3.6:
-jupyter
-numpy 
-pandas 
-math 
-matplotlib 
-pytorch 
-scikit-learn
+  - jupyter.
+  - numpy. 
+  - pandas. 
+  - math. 
+  - matplotlib. 
+  - pytorch. 
+  - scikit-learn.
