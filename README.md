@@ -9,8 +9,8 @@ Completed offers don’t mean necessarily that they were actually completed, for
 
 ### Problem
 
-The problem is to identify and target the customers with the best offer that they more likely to view and complete.
-My approach for solving this issue, will be to decide which one of the three offers (BOGO, Discount or informational message) should be sent to a certain customer given some feature about his demographic group and his previous transactions. 
+The problem is to identify and target the customers with the most suitable offer that they more likely to view and complete.
+My approach for solving this issue, will be to decide whether the customer will respond to an offer or not, given some features about the customer demographic group, his previous transactions and the features of the offer. 
 
 --------
 
