@@ -16,9 +16,16 @@ My approach for solving this issue, will be to decide whether the customer will 
 
 ### Included in this repository
 
-- data.zip - Contains the three original files 
-- proposal.pdf - The Capstone Project proposal with the project details
+- proposal.pdf - The Capstone Project proposal with the high level concepts
+- report.pdf - The Capstone Project report with detailed implementation steps
 - README.md - this file
+- data.zip - Contains the three original files 
+- uploaded_data - Contains the train.csv and test.csv files
+- DecisionTree.pkl - Contains the Decision Tree trained model
+- Logisticregression.pk - Contains the Logistic Regression trained model
+- RandomForest.pkl - Contains the Random Forest trained model
+- data-exploration.ipynb - Contains the notebook used for data exploration and features engineering
+- model-training.ipynb - Contains the notebook used for training and evaluating the models
 
 After downloading/cloning this repository, unzip the file data.zip and create a /data folder contains the three files:
   1. portfolio.json
@@ -27,7 +34,8 @@ After downloading/cloning this repository, unzip the file data.zip and create a 
 --------
 ### Libraries
 
-This project is developed using Python 3.6:
+This project is developed using Python 3.6.
+You will need to download the below libraries.
   - jupyter.
   - numpy. 
   - pandas. 
@@ -35,3 +43,5 @@ This project is developed using Python 3.6:
   - matplotlib. 
   - pytorch. 
   - scikit-learn.
+  - os.
+  - pickle.
