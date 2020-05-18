@@ -20,7 +20,7 @@ My approach for solving this issue, will be to decide whether the customer will 
 - report.pdf - The Capstone Project report with detailed implementation steps
 - README.md - this file
 - data.zip - Contains the three original files 
-- uploaded_data - Contains the train.csv and test.csv files
+- uploaded_data.zip - Contains the train.csv and test.csv files
 - DecisionTree.pkl - Contains the Decision Tree trained model
 - Logisticregression.pk - Contains the Logistic Regression trained model
 - RandomForest.pkl - Contains the Random Forest trained model
