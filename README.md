@@ -17,7 +17,7 @@ My approach for solving this issue, will be to decide whether the customer will 
 ### Included in this repository
 
 - proposal.pdf - The Capstone Project proposal with the high level concepts
-- report.pdf - The Capstone Project report with detailed implementation steps
+- Report.pdf - The Capstone Project report with detailed implementation steps
 - README.md - this file
 - data.zip - Contains the three original files 
 - uploaded_data.zip - Contains the train.csv and test.csv files
